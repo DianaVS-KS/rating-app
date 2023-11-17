@@ -1,0 +1,15 @@
+.ratingTag {
+  background-color: #e1eff2;
+  border-radius: 100px;
+  color: #265183;
+  display: flex;
+  gap: 4px;
+  padding: 4px 12px;
+  height: 100%;
+
+  svg {
+    fill: #f0c419;
+    height: 14px;
+    width: 14px;
+  }
+}

@@ -1,0 +1,22 @@
+.card {
+  height: 100px;
+  width: 100px;
+}
+
+.field {
+  margin-top: 24px;
+}
+
+.goBackIcon {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+}
+
+.imageError {
+  color: red;
+}
+
+.selectedImage {
+  border: 2px solid #474748;
+}
