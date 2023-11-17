@@ -10,7 +10,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <ThemeProvider theme={theme}>
       <StyledEngineProvider injectFirst>
-        {/* <CssBaseline /> */}
         <RouterProvider router={mainRouter} />
       </StyledEngineProvider>
     </ThemeProvider>
